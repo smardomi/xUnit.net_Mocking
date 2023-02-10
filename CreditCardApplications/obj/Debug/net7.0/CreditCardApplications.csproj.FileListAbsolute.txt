@@ -1,0 +1,15 @@
+D:\Saeed Mardomi\Projects\Xunit\CreditCardApplications\CreditCardApplications\bin\Debug\net7.0\CreditCardApplications.exe
+D:\Saeed Mardomi\Projects\Xunit\CreditCardApplications\CreditCardApplications\bin\Debug\net7.0\CreditCardApplications.deps.json
+D:\Saeed Mardomi\Projects\Xunit\CreditCardApplications\CreditCardApplications\bin\Debug\net7.0\CreditCardApplications.runtimeconfig.json
+D:\Saeed Mardomi\Projects\Xunit\CreditCardApplications\CreditCardApplications\bin\Debug\net7.0\CreditCardApplications.dll
+D:\Saeed Mardomi\Projects\Xunit\CreditCardApplications\CreditCardApplications\bin\Debug\net7.0\CreditCardApplications.pdb
+D:\Saeed Mardomi\Projects\Xunit\CreditCardApplications\CreditCardApplications\obj\Debug\net7.0\CreditCardApplications.csproj.AssemblyReference.cache
+D:\Saeed Mardomi\Projects\Xunit\CreditCardApplications\CreditCardApplications\obj\Debug\net7.0\CreditCardApplications.GeneratedMSBuildEditorConfig.editorconfig
+D:\Saeed Mardomi\Projects\Xunit\CreditCardApplications\CreditCardApplications\obj\Debug\net7.0\CreditCardApplications.AssemblyInfoInputs.cache
+D:\Saeed Mardomi\Projects\Xunit\CreditCardApplications\CreditCardApplications\obj\Debug\net7.0\CreditCardApplications.AssemblyInfo.cs
+D:\Saeed Mardomi\Projects\Xunit\CreditCardApplications\CreditCardApplications\obj\Debug\net7.0\CreditCardApplications.csproj.CoreCompileInputs.cache
+D:\Saeed Mardomi\Projects\Xunit\CreditCardApplications\CreditCardApplications\obj\Debug\net7.0\CreditCardApplications.dll
+D:\Saeed Mardomi\Projects\Xunit\CreditCardApplications\CreditCardApplications\obj\Debug\net7.0\refint\CreditCardApplications.dll
+D:\Saeed Mardomi\Projects\Xunit\CreditCardApplications\CreditCardApplications\obj\Debug\net7.0\CreditCardApplications.pdb
+D:\Saeed Mardomi\Projects\Xunit\CreditCardApplications\CreditCardApplications\obj\Debug\net7.0\CreditCardApplications.genruntimeconfig.cache
+D:\Saeed Mardomi\Projects\Xunit\CreditCardApplications\CreditCardApplications\obj\Debug\net7.0\ref\CreditCardApplications.dll
